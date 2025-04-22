@@ -1,4 +1,5 @@
-# Oi, eu sou a Leonela!  
+# Oi, eu sou a Leonela! 🌸✨  
+
 **Back-end developer em formação | Apaixonada por desafios | Exploradora de códigos e possibilidades**
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZ3ODJkbXNzZnJoM2M2am1qb3Y5Y3kydmVmcmN3dXQ3eWIzdGN0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VVvcpqq3R34dClYgee/giphy.gif" width="150"/>
